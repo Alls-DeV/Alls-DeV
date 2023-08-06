@@ -1,6 +1,6 @@
 ### Hi there, I'm Alessio De Vito
 - 📝 I'm a MSc student in Artificial Intelligence
-- rocket Software Engineer Intern at Jetbrains
+- 🚀 Software Engineer Intern at Jetbrains
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alls-cpp&layout=compact&show_icons=true&card_width=445&theme=solarized)
 ---
