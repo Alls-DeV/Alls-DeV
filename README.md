@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Alessio De Vito
+- 📝 I'm a MSc student in Artificial Intelligence
+- 👨‍💻 Software Engineer Intern at Jetbrains
 
-<!--
-**alls-cpp/alls-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alls-cpp&layout=compact&show_icons=true&card_width=445&theme=solarized)
+---
+### 📫 Connect with me:
+[<img align="left" alt="alls | LinkedIn" width="50px" style="color:red" src="linkedin_logo.svg" />][linkedin]
+[<img align="left" alt="alls | Gmail" width="50px" style="color:blue" src="gmail_logo.svg" />][gmail]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/alessio-devito
+[gmail]: mailto:alessiodevito73@gmail.com
