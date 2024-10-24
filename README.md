@@ -1,6 +1,6 @@
 ```
 alls@archlinux /home/alls
-$ alessio | cowsay
+$ cowsay hello
 
    ______________________________________________________
  /                Hey, I'm Alessio De Vito                \
