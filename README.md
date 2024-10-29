@@ -1,6 +1,6 @@
 ```
 alls@archlinux /home/alls
-$ cowsay -f cat hello
+$ cowsay -f cat < presentation.txt
 
                                    ______________________________________________________
                                  /                Hey, I'm Alessio De Vito                \
