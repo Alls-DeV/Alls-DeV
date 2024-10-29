@@ -1,6 +1,6 @@
 ```
 alls@archlinux /home/alls
-$ cowsay -f cat < presentation.txt
+$ cowsay -f frog < presentation.txt
 
                                    ______________________________________________________
                                  /                Hey, I'm Alessio De Vito                \
@@ -9,11 +9,11 @@ $ cowsay -f cat < presentation.txt
                                 |   I'm interested in algorithms, data structures and AI   |
                                  \________________________________________________________/
                                                  \
-                                                   \   /\_____/\
-                                                      /  o   o  \
-                                                     ( ==  ^  == )
-                                                      )         (
-                                                     (           )
-                                                    ( (  )   (  ) )
-                                                   (__(__)___(__)__)
+                                                   \      _   _
+                                                         (.)_(.)
+                                                      _ (   _   ) _
+                                                     / \/`-----'\/ \
+                                                   __\ ( (     ) ) /__
+                                                   )   /\ \._./ /\   (
+                                                    )_/ /|\   /|\ \_(
 ```
