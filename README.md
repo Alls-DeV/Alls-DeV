@@ -1,6 +1,5 @@
 ```
-alls@archlinux /home/alls
-$ cowsay -f frog < presentation.txt
+alls@archlinux:/home/alls/Github $ cowsay -f frog < presentation.txt
 
                                    ______________________________________________________
                                  /                Hey, I'm Alessio De Vito                \
