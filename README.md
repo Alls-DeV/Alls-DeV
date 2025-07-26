@@ -1,18 +1,6 @@
 ```
-alls@archlinux:/home/alls/Github $ cowsay -f frog < presentation.txt
-
-                                   ______________________________________________________
-                                 /                Hey, I'm Alessio De Vito                \
-                                |     I'm a M.Sc. student in AI at Polytechnic of Milan    |
-                                | I was a software engineer intern at Amazon and Jetbrains |
-                                |   I'm interested in algorithms, data structures and AI   |
-                                 \________________________________________________________/
-                                                 \
-                                                   \      _   _
-                                                         (.)_(.)
-                                                      _ (   _   ) _
-                                                     / \/`-----'\/ \
-                                                   __\ ( (     ) ) /__
-                                                   )   /\ \._./ /\   (
-                                                    )_/ /|\   /|\ \_(
+[alls@archlinux ~/Github]$ cat presentation.txt
+Hey, I'm Alessio and I'm a M.Sc. student in AI at Polytechnic of Milan.
+I'm a ML engineer intern at Google and I was a SWE intern at Amazon and Jetbrains.
+I'm interested in algorithms, data structures and AI.
 ```
